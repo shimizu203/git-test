@@ -1,0 +1,4 @@
+Hello World.
+This is a log of
+sato's git workshop.
+The date of 1013.
